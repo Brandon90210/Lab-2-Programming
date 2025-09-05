@@ -63,7 +63,7 @@ We do not know for sure what the names will be.
  Name= Max
 }
 
-22: Public Date ()
+22: Public Date("March",23,1861)
 
 23: The difference is the method name
 
@@ -101,10 +101,21 @@ to be the same and it will still work so long as it has the same meaning.
     }
      
     
-34: 
+34: public void currentAge(int amount)
+    {
+    currentAge = amount;
+    } 
 
+35:private boolean alive;
+   {
+   status = alive;
+   }
 
+36: The price is 0 and not what I set it to.
 
+37: My cat has green eyes.
+
+38:
 
 
 
