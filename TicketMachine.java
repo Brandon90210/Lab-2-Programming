@@ -17,6 +17,8 @@ public class TicketMachine
     private int balance;
     // The total amount of money collected by this machine.
     private int total;
+    
+    private int status;
 
     /**
      * Create a machine that issues tickets of the given price.
@@ -37,7 +39,13 @@ public class TicketMachine
     {
         return price;
     }
-
+    /**
+     * Return the value of the total field.
+     */
+    public int getTotal()
+    {
+        return total;
+    }
     /**
      * Return the amount of money already inserted for the
      * next ticket.

@@ -49,7 +49,63 @@ I get is "class required" I believe it does not clearly explain the error as the
 15: yes it matters as any other order leads to an error which states that there is a missing identifier. This message is due
 to the change in the order.
 
-16:
+16: yes, without the semicolon there is an error
+
+18: it belongs to the Student class
+
+19: public is a visibility parameter, Book is a class, String title is a class, double price is the variable
+
+20: I think that the book might have fields such as pages and paragraphs allowing you to write information in it.
+We do not know for sure what the names will be.
+
+21: public Pet(String petsName)
+{
+ Name= Max
+}
+
+22: Public Date ()
+
+23: The difference is the method name
+
+24: "The tickets cost..."
+
+25: No it will not need to be changed because their names mean the same thing. This tells me that the name does not always need
+to be the same and it will still work so long as it has the same meaning.
+
+27: The error is that there is not a statement
+
+28: printTicket uses a system while getPrice uses a return statement.
+
+29: They do not have a return system due to the fact that there is nothing to return and there would be no use for it.
+
+31: public class score
+    {
+    /**
+    * Increase score by the given number of points.
+    */
+    public void increaseScore(int points)
+    {
+        // TODO: Increase score by the value in points.
+    }
+
+32: Yes, it is a mutator and you can demonstrate it by adding credits
+
+33:/**
+    * Reduce price by the given amount.
+    */
+    public void discount(int amount)
+    {
+    // TODO: Subtract amount from price.
+
+    price= balance-discount;
+    }
+     
+    
+34: 
+
+
+
+
 
 
 
