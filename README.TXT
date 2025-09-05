@@ -115,7 +115,13 @@ to be the same and it will still work so long as it has the same meaning.
 
 37: My cat has green eyes.
 
-38:
+39: I think it would print the number the price and the cents
+
+40: I think it would print the price alongside the cents for example 99.99$
+
+42: They show different outputs in the name section as the prices that were said are different
+
+43: 
 
 
 
