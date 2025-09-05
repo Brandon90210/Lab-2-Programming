@@ -111,7 +111,7 @@ to be the same and it will still work so long as it has the same meaning.
    status = alive;
    }
 
-36: The price is 0 and not what I set it to.
+36: The price is 0 and not what I set it to because it has the same name
 
 37: My cat has green eyes.
 

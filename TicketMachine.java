@@ -27,7 +27,7 @@ public class TicketMachine
      */
     public TicketMachine(int price)
     {
-        price = price;
+        this.price = price;
         balance = 0;
         total = 0;
     }
