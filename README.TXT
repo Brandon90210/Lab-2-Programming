@@ -121,7 +121,13 @@ to be the same and it will still work so long as it has the same meaning.
 
 42: They show different outputs in the name section as the prices that were said are different
 
-43: 
+43: Yes it does print the same output and i think the %d and %n meant the price.
+
+44: This automatically sets the price to 1000 cents no matter what i set it to when creating an object
+
+46: Yes it does at you must set the balance = to 0
+
+47
 
 
 
