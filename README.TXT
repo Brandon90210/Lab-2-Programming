@@ -6,9 +6,7 @@ the start of lab 2:)
 
 5: Yes it is different as the price is changed to 50 cents which is what i set it to.
 
-6: I think the outer wrappers of the student and labclass classes would be similar to the ticketmachine class as you would need
-to enroll students in a class similar to how you need to pay for a ticket. You can also print the class list similar to how
-it is possible to print receipts using the ticketmachine. Overall I believe that the layout is similar.
+6: public class LabClass, public class Student
 
 7: Yes it does matter, the screen color changes from green to white and the error is that there is no longer a class. The message
 I get is "class required" I believe it does not clearly explain the error as the mistake is the order of the "public class".
@@ -50,6 +48,8 @@ I get is "class required" I believe it does not clearly explain the error as the
 
 15: yes it matters as any other order leads to an error which states that there is a missing identifier. This message is due
 to the change in the order.
+
+16:
 
 
 
