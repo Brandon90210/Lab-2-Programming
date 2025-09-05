@@ -125,9 +125,9 @@ to be the same and it will still work so long as it has the same meaning.
 
 44: This automatically sets the price to 1000 cents no matter what i set it to when creating an object
 
-46: Yes it does at you must set the balance = to 0
+46: Yes it does at you must set the balance = to 0, It is a accessor because you can call on it.
 
-47
+
 
 
 
